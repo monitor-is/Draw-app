@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MLH</string>
+    <string name="enter_token">Please enter order ID</string>
+    <string name="order_id">Order ID</string>
+    <string name="connect">Connect</string>
+    <string name="doner_master">Doner Master</string>
+</resources>
